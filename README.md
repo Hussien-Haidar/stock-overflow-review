@@ -1,5 +1,5 @@
 # Stock Overflow Review
-## MERN Stack Application with Microsoft SQL Integration
+## React/Node.js Application with Microsoft SQL Integration
 
 ## Introduction
 
