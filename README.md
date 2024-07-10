@@ -46,7 +46,7 @@ This project is built using SQL Server, Express, React, Node, designed to manage
 ## Technologies Used
 
 - **Frontend:**
-  - React.js, Redux, Metierial UI
+  - React.js, Redux, Material UI
   
 - **Backend:**
   - Node.js, Express.js
