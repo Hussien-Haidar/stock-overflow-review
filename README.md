@@ -60,20 +60,18 @@ This project is built using SQL Server, Express, React, Node, designed to manage
 
 ## Review Images/GIFs
 
-![8](https://github.com/Hussien-Haidar/stock-overflow-review/assets/125471428/b75e20c4-7c26-4b1f-80e9-efea41bce015)
+![1](https://github.com/user-attachments/assets/54484f28-4f82-4c85-905c-6ad0bb3e38ba)
 
-![9](https://github.com/Hussien-Haidar/stock-overflow-review/assets/125471428/a427ff15-feec-4b7a-866f-5ad1aa96df06)
+![2](https://github.com/user-attachments/assets/a6bde8c1-3758-4430-b963-9025a771d3ee)
 
-![1](https://github.com/Hussien-Haidar/stock-overflow-review/assets/125471428/1b105935-4739-4cee-beda-2a8a78951409)
+![3](https://github.com/user-attachments/assets/27b04c2b-0339-40e4-8c51-285921dc401f)
 
-![2](https://github.com/Hussien-Haidar/stock-overflow-review/assets/125471428/a7e938dc-3500-4ab6-bb2e-c5c54d106010)
+![5](https://github.com/user-attachments/assets/bc381da1-5e7c-43f6-8fe7-ee6065c7633a)
 
-![4](https://github.com/Hussien-Haidar/stock-overflow-review/assets/125471428/d796be97-228a-4fea-8cf6-e8dbfa8d785a)
+![4](https://github.com/user-attachments/assets/4af4a613-457b-45d0-bf86-122621bc2ea2)
 
-![7](https://github.com/Hussien-Haidar/stock-overflow-review/assets/125471428/a5bcf2e4-889c-479c-aa62-375133ded1d6)
+![6](https://github.com/user-attachments/assets/8082479f-f6fc-4cd6-8543-0d80f20c7818)
 
-![3](https://github.com/Hussien-Haidar/stock-overflow-review/assets/125471428/07d20411-8a55-4f84-997b-3a141685daf9)
+![7](https://github.com/user-attachments/assets/fec2573c-9295-4d67-963e-3036539c7323)
 
-![5](https://github.com/Hussien-Haidar/stock-overflow-review/assets/125471428/e028db1f-79a1-42b8-b846-5bafb963d2db)
 
-![6](https://github.com/Hussien-Haidar/stock-overflow-review/assets/125471428/5fc8899d-1bba-4fc7-a401-3b5ffe144022)
